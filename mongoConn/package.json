@@ -1,0 +1,19 @@
+{
+  "name": "lambda_layer_mongo_connection",
+  "version": "0.0.1",
+  "description": "Layer que establece la conexión con la base de datos de mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lambda",
+    "mongodb",
+    "layer"
+  ],
+  "author": "Mi Paquete",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.11.0"
+  }
+}
